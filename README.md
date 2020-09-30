@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/csharpshooter/DeepLearning">
   <img align="center" src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=csharpshooter&repo=DeepLearning" />
 </a>
-<a href="https://github.com/csharpshooter/E4P2">
+<a href="https://github.com/gdeotale/E4P2">
   <img align="center" src="https://github-readme-stats-flax-alpha.vercel.app/api/pin/?username=csharpshooter&repo=E4P2" />
 </a>
 <a href="https://github.com/csharpshooter/EIP">
